@@ -63,3 +63,8 @@ C:\Users\stoja\source\repos\ParkyAPI\ParkyAPI\bin\Debug\netcoreapp3.1\Humanizer.
 C:\Users\stoja\source\repos\ParkyAPI\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\stoja\source\repos\ParkyAPI\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\stoja\source\repos\ParkyAPI\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\stoja\source\repos\ParkyAPI\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\stoja\source\repos\ParkyAPI\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stoja\source\repos\ParkyAPI\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stoja\source\repos\ParkyAPI\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stoja\source\repos\ParkyAPI\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.MvcApplicationPartsAssemblyInfo.cs
